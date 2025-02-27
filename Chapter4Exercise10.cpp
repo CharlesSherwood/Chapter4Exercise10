@@ -2,7 +2,7 @@
 Progrmmer:Charles Sherwood
 Date:2/25
 Requirments:Ask the user for a day and month 
-and tell the mhow many days are the that
+and tell them how many days are in the that
 month from that year.
 */
 
